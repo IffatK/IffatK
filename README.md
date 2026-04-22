@@ -192,7 +192,7 @@ Node.js  ████░░░░░░  45%
 <tr>
 <td width="100%" valign="top">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%2F%2Fin%2Fiffat-E8593C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111)]([https://linkedin.com/in/iffat](https://www.linkedin.com/in/iffat-khan-5b0907270/))
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%2F%2Fin%2Fiffat-E8593C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111)](https://linkedin.com/in/iffat](https://www.linkedin.com/in/iffat-khan-5b0907270/)
 
 <br/>
 
