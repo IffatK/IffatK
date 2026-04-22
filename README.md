@@ -94,13 +94,17 @@ That's the standard I hold myself to. 🎯
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iffat&show_icons=true&theme=rose_pine&hide_border=true&count_private=true&hide=contribs&title_color=E8A598&icon_color=C9A0A0&text_color=e0d6f0&bg_color=1f1b2e" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=IffatK&show_icons=true&count_private=true&hide_border=true&title_color=E8A598&icon_color=C9A0A0&text_color=e0d6f0&bg_color=0d1117&include_all_commits=true" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iffat&layout=compact&theme=rose_pine&hide_border=true&title_color=E8A598&text_color=e0d6f0&bg_color=1f1b2e" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IffatK&layout=compact&hide_border=true&title_color=E8A598&text_color=e0d6f0&bg_color=0d1117&langs_count=6" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=iffat&theme=rose_pine&hide_border=true&ring=E8A598&fire=C9A0A0&currStreakLabel=E8A598" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=IffatK&theme=dark&hide_border=true&ring=E8A598&fire=C9A0A0&currStreakLabel=E8A598&background=0d1117&stroke=E8A598&dates=e0d6f0&sideLabels=E8A598" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IffatK&bg_color=0d1117&color=E8A598&line=C9A0A0&point=ffffff&area=true&hide_border=true&area_color=C9A0A060" />
 
 </div>
 
