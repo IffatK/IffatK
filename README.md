@@ -1,82 +1,85 @@
 <h1 align="center">hey, i'm iffat 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=frontend%20developer&fontSize=30&animation=fadeIn&fontColor=F78DA7" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=2800&pause=800&color=F78DA7&center=true&vCenter=true&width=550&lines=building+clean+ui+✨;react+focused;turning+ideas+into+interfaces" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2800&pause=800&color=F78DA7&center=true&vCenter=true&width=500&lines=i+build+things+that+feel+nice;frontend+dev+(react);still+learning+but+serious+about+it" />
 </p>
 
 ---
 
+### 🌷 a little about me
+
+i like building interfaces that feel **simple, smooth, and intentional**.  
+not just “it works” — it should feel right when you use it.
+
+i’m currently focused on react, building projects, and figuring things out as i go.
+
+---
+
+### 💌 what i'm doing right now
+
+- 🧁 building **whisk & whimsy** (bakery website)  
+- ⚡ learning how APIs actually work (not just copying)  
+- 🧠 practicing dsa (slowly but properly)  
+- 🎯 trying to level up with every project  
+
+---
+
+### 🎀 what i actually work with
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="260"/>
+
+💻 **frontend**  
+react • javascript • html • css  
+
+⚙️ **backend basics**  
+node.js • express  
+
+🧠 **problem solving**  
+c++ (dsa)  
+
+🎨 **design / tools**  
+figma • firebase • mysql  
+
 </p>
 
 ---
 
-### 🌷 about me
+### ✨ how i like to build
 
-i’m someone who enjoys building interfaces that feel simple, smooth, and actually usable.  
-i focus more on how things look and behave — not just making them work.
-
-right now i’m working with react, building real projects, and improving step by step.
+- clean UI > overcomplicated UI  
+- understanding > memorizing  
+- small improvements > fake perfection  
+- real projects > tutorial projects  
 
 ---
 
-### 💌 current vibe
+### 📊 my activity (kinda messy but improving)
 
 <p align="center">
-
-✨ building *whisk & whimsy*  
-⚡ learning api integration  
-🧠 practicing dsa  
-🎯 improving every day  
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IffatK&theme=tokyo-night&hide_border=true&line=F78DA7&point=FFFFFF" />
 </p>
 
 ---
 
-### 🎀 tech stack
+### 📈 stats (keeping it simple)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,cpp,nodejs,express,mysql,firebase,figma&perline=6" />
+  <img src="https://streak-stats.demolab.com/?user=IffatK&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IffatK&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-### 📊 activity graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IffatK&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=F78DA7&point=FFFFFF" />
-</p>
-
----
-
-### 📈 stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IffatK&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=IffatK&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IffatK&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🌐 connect
+### 🌐 let’s connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iffat-khan-5b0907270/">
-    <img src="https://img.shields.io/badge/connect%20with%20me-iffat-ff69b4?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/iffat%20on%20linkedin-%23F78DA7?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F78DA7&height=120&section=footer&animation=fadeIn"/>
+  made with ☁️ + overthinking + fixing bugs at 2am  
 </p>
