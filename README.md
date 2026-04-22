@@ -1,91 +1,84 @@
-<h1 align="center">Hi 👋, I'm Iffat</h1>
-<h3 align="center">Frontend Developer • React • Building clean & usable web apps</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=550&lines=Frontend+Developer;React+Focused;Building+Real+World+Projects;Always+Improving+🚀" />
-</p>
+# hi, i'm iffat 👋
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IffatK&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+frontend developer · building things to understand them
+
+</div>
 
 ---
 
-## 💫 About Me
+### about me
 
-I'm a frontend developer who focuses on building clean, responsive, and user-friendly applications.  
-I enjoy taking ideas and turning them into real, working products.
+I'm a BE IT student who got into frontend development because I wanted to make things people could actually *see and use* — not just run in a terminal.
 
-Currently working on React projects with API integration while improving my problem-solving skills with DSA in C++.
+I learn by building. Not by watching 47 tutorials in a row.
 
----
-
-## ⚡ Quick Highlights
-
-<p align="center">
-
-🚀 Building real-world React projects  
-💡 Strong focus on UI & user experience  
-🧠 Practicing DSA to improve logic  
-🎯 Goal: Become industry-ready developer  
-
-</p>
+Right now I'm focused on React, slowly making sense of how real apps are structured — state, routing, APIs, all of it. I also care a lot about how things look and feel. A broken UI frustrates me more than a broken function.
 
 ---
 
-## 🧩 Current Focus
+### what i'm working on
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,js,cpp,nodejs" />
-
-</p>
-
-<p align="center">
-Improving React • API Integration • DSA • Real Projects
-</p>
+- 🍰 **Whisk & Whimsy** — a full-stack bakery e-commerce site (React + Node.js + PostgreSQL). It has auth, an admin dashboard, cart, orders, reviews — the works. It started as a college project and turned into something I actually want to finish properly.
+- 📖 Learning DSA in C++ — slowly, but consistently
+- 🔗 Getting more comfortable with REST APIs and how frontend and backend talk to each other
 
 ---
 
-## 🛠️ Tech Stack
+### how i think about building
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,cpp,c,java,python,nodejs,express,mysql,firebase,supabase,vercel,netlify,vite,figma" />
-</p>
+Clean design isn't a bonus — it's part of the product.  
+If something looks bad, I want to fix it.  
+If something's hard to use, I want to understand why.
 
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IffatK&theme=tokyo-night&hide_border=true" />
-</p>
+I'm not going to call myself an expert. I'm at the stage where things click when you build them, and that's exactly where I want to be.
 
 ---
 
-## 📈 Stats
+### tech stack
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=IffatK&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=IffatK&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+**comfortable with**
+```
+React · JavaScript · HTML · CSS · Node.js · Express
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IffatK&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+**working with**
+```
+PostgreSQL · REST APIs · Git · Supabase
+```
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/iffat-khan-5b0907270/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-</p>
+**learning**
+```
+DSA (C++) · system design basics
+```
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=100&section=footer"/>
-</p>
+### stats
+
+<div align="center">
+
+![Iffat's GitHub stats](https://github-readme-stats.vercel.app/api?username=iffat&show_icons=true&theme=rose_pine&hide_border=true&hide=contribs&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iffat&layout=compact&theme=rose_pine&hide_border=true)
+
+</div>
+
+---
+
+### find me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iffat-%23E8B4B8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iffat)
+
+</div>
+
+---
+
+<div align="center">
+
+*always building, always figuring it out*
+
+</div>
