@@ -5,7 +5,7 @@
 <br/>
 
 ```
-                                                              // you learn by shipping, not watching.
+// you learn by shipping, not watching.
 ```
 
 <br/>
@@ -66,13 +66,9 @@ MOOD   →  in the zone
 <br/>
 
 ![React](https://img.shields.io/badge/-React-E8593C?style=flat-square&logo=react&logoColor=white)
-
 ![JS](https://img.shields.io/badge/-JS-E8593C?style=flat-square&logo=javascript&logoColor=white)
-
 ![HTML](https://img.shields.io/badge/-HTML-E8593C?style=flat-square&logo=html5&logoColor=white)
-
 ![CSS](https://img.shields.io/badge/-CSS-E8593C?style=flat-square&logo=css3&logoColor=white)
-
 ![Figma](https://img.shields.io/badge/-Figma-E8593C?style=flat-square&logo=figma&logoColor=white)
 
 </td>
@@ -83,42 +79,33 @@ MOOD   →  in the zone
 <br/>
 
 ![Node](https://img.shields.io/badge/-Node-555555?style=flat-square&logo=node.js&logoColor=white)
-
 ![Express](https://img.shields.io/badge/-Express-555555?style=flat-square&logo=express&logoColor=white)
-
 ![MySQL](https://img.shields.io/badge/-MySQL-555555?style=flat-square&logo=mysql&logoColor=white)
-
 ![Firebase](https://img.shields.io/badge/-Firebase-555555?style=flat-square&logo=firebase&logoColor=white)
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="25%">
 
 `[ LANGUAGES ]`
 
 <br/>
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=cplusplus&logoColor=white)
-
 ![C](https://img.shields.io/badge/-C-333333?style=flat-square&logo=c&logoColor=white)
-
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=openjdk&logoColor=white)
-
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=white)
 
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="250%">
 
 `[ DEPLOY ]`
 
 <br/>
 
 ![Vercel](https://img.shields.io/badge/-Vercel-444444?style=flat-square&logo=vercel&logoColor=white)
-
 ![Netlify](https://img.shields.io/badge/-Netlify-444444?style=flat-square&logo=netlify&logoColor=white)
-
 ![Render](https://img.shields.io/badge/-Render-444444?style=flat-square&logo=render&logoColor=white)
-
 ![Git](https://img.shields.io/badge/-Git-E8593C?style=flat-square&logo=git&logoColor=white)
 
 </td>
