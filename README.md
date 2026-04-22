@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=26&duration=2800&pause=900&color=E8A598&center=true&vCenter=true&multiline=false&width=650&lines=I+design+first%2C+then+I+code.+%F0%9F%8E%A8;Clean+UI+%2B+Real+Code+%3D+My+Stack.+%F0%9F%92%BB;Currently+building+Whisk+%26+Whimsy+%F0%9F%8D%B0;React+dev+who+actually+cares+about+pixels.+%E2%9C%A8" alt="Typing Animation" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=120&text=Design-Obsessed.%20Pixel-Precise.%20Always%20Building.&fontSize=20&fontColor=E8A598&animation=twinkling&fontAlignY=55&desc=React%20%7C%20UI%2FUX%20%7C%20Frontend%20Dev&descSize=14&descAlignY=78&descColor=ffffff" alt="Animated Banner" />
 
 </div>
 
@@ -22,7 +22,6 @@
 const iffat = {
   role:       "Frontend Developer",
   focus:      ["React", "UI/UX Design", "Clean Code"],
-  currentlyBuilding: "Whisk & Whimsy 🍰",
   learning:   ["API Integration", "DSA in C++"],
   belief:     "You learn by shipping, not watching.",
   vibe:       "Design-obsessed. Pixel-precise. Always building."
@@ -36,20 +35,6 @@ Every project I build, I ask: *Does this look good? Is it intuitive? Would a rea
 That's the standard I hold myself to. 🎯
 
 <br clear="right"/>
-
----
-
-## 🍰 What I'm Working On
-
-<div align="center">
-
-| 🚀 Project | 📌 What It Is | 🛠️ Stack | 🔖 Status |
-|:---:|:---|:---:|:---:|
-| **Whisk & Whimsy** | Full-stack bakery e-commerce site with auth, admin dashboard, cart & orders | React · Node.js · PostgreSQL | 🟡 In Progress |
-| **API Integration** | Learning real-world API patterns through actual projects | REST · Axios | 🟢 Ongoing |
-| **DSA in C++** | Building solid problem-solving fundamentals, one concept at a time | C++ | 🟢 Ongoing |
-
-</div>
 
 ---
 
