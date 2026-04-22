@@ -53,10 +53,12 @@ I focus on writing clean, simple code and improving with every project I build.
 
 ## 📊 GitHub Stats
 
-![](https://streak-stats.demolab.com/?user=IffatK&theme=one_dark_pro&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=IffatK&theme=one_dark_pro&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IffatK&layout=compact&theme=one_dark_pro&hide_border=true" height="180"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IffatK&layout=compact&theme=one_dark_pro&hide_border=true)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IffatK&theme=github_dark)
 ---
 
 ## 🌐 Connect With Me
