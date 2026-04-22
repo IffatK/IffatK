@@ -1,8 +1,18 @@
 <h2 align="center">👋 hey, i'm iffat</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2800&pause=800&color=F78DA7&center=true&vCenter=true&width=600&lines=welcome+to+my+dev+space;frontend+developer+(react);building+clean+ui+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2800&pause=800&color=F78DA7&center=true&vCenter=true&width=600&lines=frontend+developer+(react);building+clean+and+usable+interfaces;learning+and+improving+everyday" />
 </p>
+
+---
+
+## 🌸 about me
+
+i’m a frontend-focused developer who enjoys building interfaces that feel simple, smooth, and actually usable.  
+
+i don’t like overcomplicated designs — i prefer things that are clean, intuitive, and make sense.
+
+right now i’m working with react, building real projects like *whisk & whimsy*, and improving my problem-solving skills step by step with dsa.
 
 ---
 
