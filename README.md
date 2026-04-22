@@ -60,7 +60,10 @@ Always learning, building, and improving.
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=IffatK&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=IffatK&theme=one_dark_pro&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IffatK&layout=compact&theme=one_dark_pro&hide_border=true)
 
 ![](https://streak-stats.demolab.com/?user=IffatK&theme=one_dark_pro&hide_border=false)
 
