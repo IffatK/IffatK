@@ -14,7 +14,7 @@ Hi, I'm Iffat 👋  <br><br>I’m a frontend-focused developer working with Reac
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=IffatK&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br
+![](https://github-readme-stats.shion.dev/api?username=IffatK&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br>
                                                                                                                                                  
 ![](https://streak-stats.demolab.com/?user=IffatK&theme=one_dark_pro&hide_border=false)<br/>
 
