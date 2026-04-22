@@ -1,90 +1,78 @@
-<h2 align="center">👋 hey, i'm iffat</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2800&pause=800&color=F78DA7&center=true&vCenter=true&width=600&lines=frontend+developer+(react);building+clean+and+usable+interfaces;learning+and+improving+everyday" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&size=32&duration=3000&pause=1000&color=C9A0A0&center=true&vCenter=true&width=500&lines=hi%2C+i'm+iffat+%F0%9F%A4%8D;frontend+developer;building+things+that+feel+right" alt="Typing SVG" />
 
----
-
-## 🌸 about me
-
-i’m a frontend-focused developer who enjoys building interfaces that feel simple, smooth, and actually usable.  
-
-i don’t like overcomplicated designs — i prefer things that are clean, intuitive, and make sense.
-
-right now i’m working with react, building real projects like *whisk & whimsy*, and improving my problem-solving skills step by step with dsa.
+</div>
 
 ---
 
-## 💳 what i'm working on
+### about me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🍰%20Whisk%20%26%20Whimsy-Bakery%20Website-ffb6c1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/API-Integration-ff69b4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA-C++-f78da7?style=for-the-badge"/>
-</p>
+I'm a frontend developer focused on React — building interfaces that are clean, responsive, and actually enjoyable to use.
 
----
+UI/UX matters to me. I care about how something *feels*, not just that it works.
 
-## 💳 what i use
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-Frontend-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-Language-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-Framework-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C++-DSA-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</p>
+I learn by shipping real projects, not collecting certificates. Still growing, but consistent about it.
 
 ---
 
-## 💳 how i work
+### currently working on
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Clean%20UI-First-ffb6c1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Real%20Projects-Over%20Tutorials-ff69b4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Consistency-Key-f78da7?style=for-the-badge"/>
-</p>
-
----
-
-## 📊 github activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IffatK&theme=tokyo-night&hide_border=true&line=F78DA7" />
-</p>
+| project | what it is | status |
+|---|---|---|
+| 🍰 Whisk & Whimsy | full-stack bakery e-commerce site | in progress |
+| 🔗 API integration | learning through real projects, not docs alone | ongoing |
+| 📐 DSA in C++ | building problem-solving fundamentals | ongoing |
 
 ---
 
-## 📈 stats
+### tech stack
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=IffatK&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IffatK&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+**frontend**
+
+![React](https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
+
+**backend basics**
+
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000?style=flat-square&logo=express&logoColor=white)
+
+**languages**
+
+![C++](https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
+
+**tools & platforms**
+
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7?style=flat-square&logo=render&logoColor=black)
 
 ---
 
-## 🌐 connect
+### github stats
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/iffat-khan-5b0907270/">
-    <img src="https://img.shields.io/badge/Connect%20with%20me-iffat-ff69b4?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+<div align="center">
+
+![Iffat's GitHub stats](https://github-readme-stats.vercel.app/api?username=iffat&show_icons=true&theme=rose_pine&hide_border=true&count_private=true&hide=contribs)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iffat&layout=compact&theme=rose_pine&hide_border=true)
+
+</div>
 
 ---
 
-<p align="center">
-  ✨ building things, slowly getting better
-</p>
+### connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/let's%20connect%20on%20LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iffat)
+
+</div>
