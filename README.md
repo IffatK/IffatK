@@ -1,119 +1,251 @@
+<!-- Header Banner -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0,18,18,18,100,28,28,28&height=200&text=IFFAT&fontSize=96&fontColor=E8593C&fontAlignY=52&desc=FRONTEND+DEVELOPER+·+UI%2FUX+DESIGNER+·+BUILDER&descSize=12&descAlignY=76&descColor=606060&fontFamily=Courier+New" width="100%" />
+</div>
+
+<br/>
+
+<!-- Typing animation -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=160&text=IFFAT&fontSize=72&fontColor=E8593C&fontAlignY=55&desc=FRONTEND+DEVELOPER+/+UI·UX+ENTHUSIAST&descSize=13&descAlignY=80&descColor=888888&fontFamily=Courier+New" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=15&duration=2800&pause=1000&color=E8593C&center=true&vCenter=true&width=550&lines=%2F%2F+design-obsessed.+pixel-precise.+always+building.;%2F%2F+you+learn+by+shipping%2C+not+watching.;%2F%2F+making+things+that+look+like+they+belong.)
 
 </div>
 
 <br/>
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=16&duration=3000&pause=1200&color=E8593C&center=true&vCenter=true&width=600&lines=design-obsessed.+pixel-precise.+always+building.;you+learn+by+shipping%2C+not+watching.;building+Whisk+%26+Whimsy+%F0%9F%8D%B0)
-
-</div>
-
 ---
+
+<!-- BENTO ROW 1: Identity + Quick Stats -->
+<table width="100%"><tr>
+
+<td width="58%" valign="top">
+
+### `◈ /whoami`
+
+```ts
+const iffat = {
+  role    : "Frontend Developer",
+  focus   : ["React", "UI/UX", "Clean Code"],
+  learning: ["API Integration", "DSA / C++"],
+  belief  : "Ship it. Learn. Repeat.",
+  vibe    : "design-obsessed · pixel-precise"
+}
+```
+
+> *"Good design is when the user doesn't have to think.*  
+> *Great design is when they smile."*
+
+</td>
+
+<td width="4%"></td>
+
+<td width="38%" valign="top">
+
+### `◈ /status`
 
 ```
-┌──────────────────────────────────────────────────────────────────────┐
-│  /INIT                                                               │
-│  ─────────────────────────────────────────────────────────────────  │
-│  role         →  Frontend Developer                                  │
-│  focus        →  React · UI/UX Design · Clean Code                  │
-│  building     →  Whisk & Whimsy 🍰                                   │
-│  learning     →  API Integration · DSA in C++                        │
-│  belief       →  "You learn by shipping, not watching."              │
-└──────────────────────────────────────────────────────────────────────┘
+◉ ONLINE
+━━━━━━━━━━━━━━━━━━━━━━
+  MODE     →  building
+  ENERGY   →  ██████░░  75%
+  FOCUS    →  frontend
+  MOOD     →  in the zone
+━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-I build things that **look like they belong** — not just things that work.  
-Every spacing decision. Every hover state. Every color. Intentional. 🎯
+</td>
+
+</tr></table>
 
 ---
 
-## `> STACK`
+<!-- BENTO ROW 2: Stack -->
+### `◈ /stack`
 
-**[ FRONTEND ]**
+<table width="100%">
+<tr>
+<td align="center" width="25%">
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=E8593C)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=E8593C)
-![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=E8593C)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=flat-square&logo=css3&logoColor=E8593C)
-![Figma](https://img.shields.io/badge/Figma-1a1a1a?style=flat-square&logo=figma&logoColor=E8593C)
+**`[ FRONTEND ]`**
 
-**[ BACKEND ]**
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=E8593C)
+![JavaScript](https://img.shields.io/badge/JS-0d0d0d?style=flat-square&logo=javascript&logoColor=E8593C)
+![HTML5](https://img.shields.io/badge/HTML-0d0d0d?style=flat-square&logo=html5&logoColor=E8593C)
+![CSS3](https://img.shields.io/badge/CSS-0d0d0d?style=flat-square&logo=css3&logoColor=E8593C)
+![Figma](https://img.shields.io/badge/Figma-0d0d0d?style=flat-square&logo=figma&logoColor=E8593C)
 
-![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=node.js&logoColor=888888)
-![Express](https://img.shields.io/badge/Express-1a1a1a?style=flat-square&logo=express&logoColor=888888)
-![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=888888)
-![Firebase](https://img.shields.io/badge/Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=888888)
+</td>
+<td align="center" width="25%">
 
-**[ LANGUAGES ]**
+**`[ BACKEND ]`**
 
-![C++](https://img.shields.io/badge/C++-1a1a1a?style=flat-square&logo=c%2B%2B&logoColor=aaaaaa)
-![C](https://img.shields.io/badge/C-1a1a1a?style=flat-square&logo=c&logoColor=aaaaaa)
-![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=aaaaaa)
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=aaaaaa)
+![Node.js](https://img.shields.io/badge/Node-0d0d0d?style=flat-square&logo=node.js&logoColor=777777)
+![Express](https://img.shields.io/badge/Express-0d0d0d?style=flat-square&logo=express&logoColor=777777)
+![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=flat-square&logo=mysql&logoColor=777777)
+![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=flat-square&logo=firebase&logoColor=777777)
 
-**[ DEPLOY ]**
+</td>
+<td align="center" width="25%">
 
-![Vercel](https://img.shields.io/badge/Vercel-1a1a1a?style=flat-square&logo=vercel&logoColor=ffffff)
-![Netlify](https://img.shields.io/badge/Netlify-1a1a1a?style=flat-square&logo=netlify&logoColor=ffffff)
-![Render](https://img.shields.io/badge/Render-1a1a1a?style=flat-square&logo=render&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=E8593C)
+**`[ LANGUAGES ]`**
+
+![C++](https://img.shields.io/badge/C++-0d0d0d?style=flat-square&logo=c%2B%2B&logoColor=aaaaaa)
+![C](https://img.shields.io/badge/C-0d0d0d?style=flat-square&logo=c&logoColor=aaaaaa)
+![Java](https://img.shields.io/badge/Java-0d0d0d?style=flat-square&logo=openjdk&logoColor=aaaaaa)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=aaaaaa)
+
+</td>
+<td align="center" width="25%">
+
+**`[ DEPLOY ]`**
+
+![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=flat-square&logo=vercel&logoColor=ffffff)
+![Netlify](https://img.shields.io/badge/Netlify-0d0d0d?style=flat-square&logo=netlify&logoColor=ffffff)
+![Render](https://img.shields.io/badge/Render-0d0d0d?style=flat-square&logo=render&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=E8593C)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `> STATS`
+<!-- BENTO ROW 3: Stats (3 panels) -->
+### `◈ /metrics`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IffatK&show_icons=true&count_private=true&hide_border=true&title_color=E8593C&icon_color=E8593C&text_color=aaaaaa&bg_color=141414&include_all_commits=true&border_radius=4" height="160"/>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=IffatK&show_icons=true&count_private=true&hide_border=true&title_color=E8593C&icon_color=E8593C&text_color=888888&bg_color=111111&include_all_commits=true&border_radius=6&rank_icon=github&hide=stars" height="155"/></a>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IffatK&layout=compact&hide_border=true&title_color=E8593C&text_color=aaaaaa&bg_color=141414&langs_count=6&border_radius=4" height="160"/>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IffatK&layout=compact&hide_border=true&title_color=E8593C&text_color=888888&bg_color=111111&langs_count=5&border_radius=6" height="155"/></a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=IffatK&theme=dark&hide_border=true&background=141414&ring=E8593C&fire=E8593C&currStreakLabel=E8593C&sideLabels=888888&dates=555555&border_radius=4" />
+<a href="#"><img src="https://streak-stats.demolab.com?user=IffatK&theme=dark&hide_border=true&background=111111&ring=E8593C&fire=E8593C&currStreakLabel=E8593C&sideLabels=666666&dates=444444&border_radius=6&stroke=1a1a1a" height="145"/></a>
 
 </div>
 
 ---
 
-## `> CURRENTLY_BUILDING`
+<!-- BENTO ROW 4: Activity + Currently working on -->
+<table width="100%"><tr>
 
-| `ID` | `PROJECT` | `DESC` | `STATUS` |
-|------|-----------|--------|----------|
-| 01 | **Whisk & Whimsy** 🍰 | recipe & baking app | `IN_PROGRESS` |
-| 02 | **DSA in C++** | algorithm grind | `ONGOING` |
-| 03 | **API Integration** | frontend ↔ real world | `LEARNING` |
+<td width="62%" valign="top">
+
+### `◈ /activity`
+
+<a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=IffatK&bg_color=111111&color=E8593C&line=E8593C&point=ffffff&area=true&hide_border=true&area_color=E8593C30&radius=4" width="100%"/></a>
+
+</td>
+
+<td width="4%"></td>
+
+<td width="34%" valign="top">
+
+### `◈ /queue`
+
+```
+┌─────────────────────────┐
+│  ACTIVE TASKS           │
+├─────────────────────────┤
+│ ▸ DSA in C++    ONGOING │
+│ ▸ API Integ.    ACTIVE  │
+│ ▸ Portfolio     BUILD   │
+├─────────────────────────┤
+│  SKILL GRIND            │
+├─────────────────────────┤
+│ React      ████████░░   │
+│ UI/UX      ███████░░░   │
+│ DSA        █████░░░░░   │
+│ Node.js    ████░░░░░░   │
+└─────────────────────────┘
+```
+
+</td>
+
+</tr></table>
 
 ---
 
-## `> PHILOSOPHY`
-
-```
-"Good design is when the user doesn't have to think.
- Great design is when they smile."
-```
-
-I don't just write code that works — I write code that **looks like it was meant to be there.**  
-That's what separates a developer who codes from one who builds **experiences.** ▸
-
----
-
-## `> CONNECT`
+<!-- BENTO ROW 5: Philosophy banner -->
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=E8593C)](https://linkedin.com/in/iffat)
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   "I don't write code that just works.                               ║
+║    I write code that looks like it was meant to be there."           ║
+║                                                                      ║
+║    Every pixel. Every spacing call. Every hover state. Intentional.  ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
+
+---
+
+<!-- BENTO ROW 6: Trophy + Streak side by side -->
+### `◈ /achievements`
+
+<div align="center">
+
+<a href="#"><img src="https://github-profile-trophy.vercel.app/?username=IffatK&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6&title=Commits,Repositories,Stars,Followers,Issues,PullRequest" width="100%"/></a>
+
+</div>
+
+---
+
+<!-- BENTO ROW 7: Connect + Footer -->
+
+<table width="100%"><tr>
+
+<td width="50%" valign="middle">
+
+### `◈ /connect`
 
 <br/>
 
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%2F%2Fin%2Fiffat-E8593C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/iffat)
+
+<br/>
+
+```
+→  Always open to:
+   · Frontend collabs
+   · UI/UX feedback
+   · Cool projects
+```
+
+</td>
+
+<td width="50%" valign="middle" align="right">
+
+```
+╔═══════════════════════════╗
+║  IFFAT.DEV                ║
+║  ─────────────────────    ║
+║  Frontend · UI/UX · Code  ║
+║                           ║
+║  "AND THIS IS ME."        ║
+╚═══════════════════════════╝
+```
+
+</td>
+
+</tr></table>
+
+---
+
+<!-- Footer -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=60&text=END+OF+FILE+//+THANKS+FOR+VISITING&fontSize=13&fontColor=555555&fontAlignY=55&fontFamily=Courier+New" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0,18,18,18,100,10,10,10&height=50&text=//+END+OF+FILE+·+THANKS+FOR+VISITING&fontSize=12&fontColor=444444&fontAlignY=55&fontFamily=Courier+New" width="100%"/>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=IffatK&color=E8593C&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
