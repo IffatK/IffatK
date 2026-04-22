@@ -16,7 +16,7 @@
 
 <table width="100%">
 <tr>
-<td width="56%" valign="top">
+<td width="100%" valign="top">
 
 **◈ /whoami**
 
@@ -34,7 +34,7 @@ const iffat = {
 > *Great design is when they smile."*
 
 </td>
-<td width="44%" valign="top">
+<td width="100%" valign="top">
 
 **◈ /status**
 
@@ -190,7 +190,7 @@ Node.js  ████░░░░░░  45%
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%2F%2Fin%2Fiffat-E8593C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111)]([https://linkedin.com/in/iffat](https://www.linkedin.com/in/iffat-khan-5b0907270/))
 
@@ -204,7 +204,7 @@ Node.js  ████░░░░░░  45%
 ```
 
 </td>
-<td width="50%" valign="middle" align="center">
+<td width="100%" valign="middle" align="center">
 
 ```
 ┌─────────────────────────┐
