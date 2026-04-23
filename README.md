@@ -18,7 +18,7 @@
 <tr>
 <td width="100%" valign="top">
 
-**◈ /whoami**
+**◈ whoami**
 
 ```ts
 const iffat = {
@@ -36,7 +36,7 @@ const iffat = {
 </td>
 <td width="100%" valign="top">
 
-**◈ /status**
+**◈ status**
 
 <img src="https://img.shields.io/badge/%E2%97%8F%20SYSTEM-ONLINE-4a9e6b?style=flat-square"/>
 
@@ -55,7 +55,7 @@ MOOD   →  in the zone
 
 ---
 
-**◈ /stack**
+**◈ stack**
 
 <table width="100%">
 <tr>
@@ -114,7 +114,7 @@ MOOD   →  in the zone
 
 ---
 
-**◈ /metrics**
+**◈ metrics**
 
 <div align="center">
 
@@ -130,7 +130,7 @@ MOOD   →  in the zone
 <tr>
 <td width="60%" valign="top">
 
-**◈ /activity**
+**◈ activity**
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IffatK&bg_color=0d0d0d&color=E8593C&line=E8593C&point=ffffff&area=true&area_color=E8593C&hide_border=true&radius=2&custom_title=Iffat%20Khan%20Contribution%20Graph)
 
@@ -186,7 +186,7 @@ Node.js  ████░░░░░░  45%
 
 ---
 
-**◈ /connect**
+**◈ connect**
 
 <table width="100%">
 <tr>
