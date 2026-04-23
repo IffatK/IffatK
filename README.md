@@ -4,7 +4,7 @@
 
 # Iffat Khan
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=E8593C&center=true&vCenter=true&width=435&lines=I+build+things+for+the+web;and+I+make+sure+they+look+good+doing+it." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=E8593C&center=true&vCenter=true&width=600&lines=I+build+things+for+the+web+%E2%80%94+and+I+make+sure+they+look+good+doing+it." alt="Typing SVG" />
 
 </div>
 
@@ -14,9 +14,9 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E8593C&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E8593C&height=1&section=header" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=1a1a1a&height=40&section=header&text=◈%20stack&fontSize=16&fontColor=E8593C&fontAlignY=65&fontAlign=8" width="100%"/>
+### <img src="https://img.shields.io/badge/◈%20stack-E8593C?style=flat-square&logoColor=white" height="20"/>
 
 **frontend**
 
@@ -42,9 +42,9 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E8593C&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E8593C&height=1&section=header" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=1a1a1a&height=40&section=header&text=◈%20stats&fontSize=16&fontColor=E8593C&fontAlignY=65&fontAlign=7" width="100%"/>
+### <img src="https://img.shields.io/badge/◈%20stats-E8593C?style=flat-square&logoColor=white" height="20"/>
 
 <div align="center">
 
@@ -56,9 +56,9 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E8593C&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E8593C&height=1&section=header" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=1a1a1a&height=40&section=header&text=◈%20currently&fontSize=16&fontColor=E8593C&fontAlignY=65&fontAlign=10" width="100%"/>
+### <img src="https://img.shields.io/badge/◈%20currently-E8593C?style=flat-square&logoColor=white" height="20"/>
 
 ```
 →  building full-stack apps end to end
@@ -68,18 +68,16 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E8593C&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E8593C&height=1&section=header" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=1a1a1a&height=40&section=header&text=◈%20connect&fontSize=16&fontColor=E8593C&fontAlignY=65&fontAlign=9" width="100%"/>
+### <img src="https://img.shields.io/badge/◈%20connect-E8593C?style=flat-square&logoColor=white" height="20"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Iffat%20Khan-%23E8593C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111)](https://www.linkedin.com/in/iffat-khan-5b0907270/)
 
 <br/>
 
 <div align="center">
-
 <sub>// IffatK · made with intent</sub>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E8593C&height=80&section=footer" width="100%"/>
-
-</div>
